@@ -1,16 +1,17 @@
-### Hi there 👋
+Hello, I'm Julia, a bioinformatician working to improve technology in Brazilian healthcare. With a passion for learning and a commitment to community, I'm here to make a difference and embrace life's sunny side.
 
-<!--
-**juliaapolonio/juliaapolonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🦾 Biomedical Engineer
+- 🎓 Master's student in bioinformatics under the supervision of [Dr. Vasiliki Lagou](https://scholar.google.co.uk/citations?user=bjj5KdwAAAAJ&hl=en)
+- 🧬 Affiliated with the [Dalmolin Group](https://github.com/dalmolingroup)
+- 📚 Working to advance technology in Brazilian healthcare
+- 🌱 Learning to develop pipelines with Nextflow
+- ⚙️ Main programming languages: Python, R, and Shell
+- 💡 Interests: GWAS, functional genomics, and RNA-seq (bulk and single-cell)
+- 💼 Freelance bioinformatics projects
 
-Here are some ideas to get you started:
+## Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find more information about my work and experience in my [resume](https://juliaapolonio.github.io/my-CV/Amorim_Julia_CV.pdf).
+
+Feel free to explore my projects and get in touch if you have any questions or are interested in collaborating!
+
