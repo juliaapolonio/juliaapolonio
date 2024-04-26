@@ -3,7 +3,6 @@ Hello, I'm Julia, a bioinformatician working to improve technology in Brazilian 
 - 🦾 Biomedical Engineer
 - 🎓 Master's student in bioinformatics under the supervision of [Dr. Vasiliki Lagou](https://scholar.google.co.uk/citations?user=bjj5KdwAAAAJ&hl=en)
 - 🧬 Affiliated with the [Dalmolin Group](https://github.com/dalmolingroup)
-- 📚 Working to advance technology in Brazilian healthcare
 - 🌱 Learning to develop pipelines with Nextflow
 - ⚙️ Main programming languages: Python, R, and Shell
 - 💡 Interests: GWAS, functional genomics, and RNA-seq (bulk and single-cell)
